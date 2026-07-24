@@ -1,0 +1,6 @@
+{
+  "name": "寻找你在文学史中的倒影",
+  "description": "寻找你在文学史中的倒影 - 结合你的情感表达、思维焦点、社会立场和心理韧性等维度，匹配出在文学史中最契合你的作家倒影。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
